@@ -20,7 +20,7 @@ For the canonical repo-by-repo relationship map, see the [GitHub Ecosystem Map](
 | [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) | Local intelligence, monitoring, and briefing workflow |
 | [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) | Practical marketing operations automation scripts |
 | [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) | Repeatable marketing operations methods and validation playbooks |
-| [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | Structured brand, code, Figma, asset, and prompt intake layer |
+| [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | Working brand-context bundle with demo inputs, code samples, manifests, prompts, and validation |
 | [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) | Portable starter for tokens, foundations, components, and front-end handoff |
 
 ## Featured work
@@ -56,7 +56,7 @@ A portable design-system starter for translating brand context into tokens, foun
 
 This repo shows a practical tactic behind the broader Growth Architecture OS: take scattered brand, design, and front-end context and turn it into a reusable structure that humans and AI tools can apply consistently.
 
-It pairs with [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system): the context repo gathers the raw brand and asset inputs; the starter repo turns those inputs into implementation-ready design-system structure.
+It pairs with [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system): the context repo packages brand rules, voice, Figma metadata, asset manifests, selected code samples, prompts, and validation; the starter repo turns reviewed inputs into implementation-ready design-system structure.
 
 ## What I build
 
