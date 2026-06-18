@@ -10,6 +10,17 @@ I am most useful in environments where the work is important, the system is comp
 
 That is the work I do: diagnose the system, clarify ownership, improve measurement, build operating rhythm, and turn repeated work into infrastructure.
 
+## Portfolio system
+
+| Repository | Role in the system | What it proves |
+|---|---|---|
+| [`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os) | Operating-system hub | Growth leadership structure, diagnostics, playbooks, templates, governance, and decision logic |
+| [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) | Implementation and handoff layer | Tokens, foundations, component specs, CSS variables, and AI-assisted front-end handoff |
+| [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) | Intelligence and monitoring layer | AI-assisted monitoring, signal detection, risk triage, and briefing workflows |
+| [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) | Utility and automation layer | Practical scripts and tools for marketing operations, audits, reporting, and campaign-health workflows |
+| [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) | Repeatable method layer | Playbooks for taxonomy, QA, funnel review, governance, and performance diagnostics |
+| [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | Intake and context layer | Structured collection of brand rules, voice, code references, Figma notes, assets, examples, and prompts |
+
 ## Featured work
 
 ### Growth Architecture OS
