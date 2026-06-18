@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+.env
+*.log
+
+# Keep source files intentional. Do not accidentally commit large private exports.
+assets/source/private/
