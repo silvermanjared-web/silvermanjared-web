@@ -35,6 +35,16 @@ It includes:
 
 The simplest explanation: it shows that I do not just optimize campaigns. I build the operating infrastructure that makes growth easier to manage and scale.
 
+### Brand Design System Starter
+
+[`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter)
+
+A portable design-system starter for translating brand context into tokens, foundations, component guidance, CSS variables, and AI-assisted front-end handoff.
+
+This repo shows a practical tactic behind the broader Growth Architecture OS: take scattered brand, design, and front-end context and turn it into a reusable structure that humans and AI tools can apply consistently.
+
+It pairs with [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system): the context repo gathers the raw brand and asset inputs; the starter repo turns those inputs into implementation-ready design-system structure.
+
 ## What I build
 
 - **Growth operating systems** — the standards, cadence, QA, and decision logic behind scalable demand
@@ -42,6 +52,7 @@ The simplest explanation: it shows that I do not just optimize campaigns. I buil
 - **CRO and funnel systems** — roadmap structure, test logic, conversion diagnosis, and enrollment or revenue-path clarity
 - **Marketing operations workflows** — taxonomy, reporting, data validation, monitoring, and repeatable execution systems
 - **AI-enabled operating tools** — source-aware workflows for briefs, readouts, diagnostics, QA, and executive communication
+- **Brand and design-system handoff layers** — structured context, tokens, components, and AI-ready front-end guidance for consistent execution
 
 ## How I work
 
@@ -53,6 +64,6 @@ The simplest explanation: it shows that I do not just optimize campaigns. I buil
 
 ## Current focus
 
-I am building practical systems for growth leadership: performance media operating models, CRO roadmaps, AI-enabled marketing operations, executive decision support, and reusable frameworks for scaling complex marketing environments.
+I am building practical systems for growth leadership: performance media operating models, CRO roadmaps, AI-enabled marketing operations, executive decision support, brand/design-system handoff, and reusable frameworks for scaling complex marketing environments.
 
 The goal is simple: make growth systems more visible, more governable, and more repeatable.
