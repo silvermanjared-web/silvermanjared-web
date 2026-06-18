@@ -20,6 +20,8 @@ A public operating system for how I think about growth leadership.
 
 This is not a normal portfolio. It is a structured view of how I walk into a messy growth environment, figure out what is broken, create order, and help the business make better decisions.
 
+Longer thesis: [Why I Run Growth Like a Platform Team](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/why-i-run-growth-like-a-platform-team.md)
+
 It includes:
 
 - First-90-days operating model
