@@ -10,16 +10,18 @@ I am most useful in environments where the work is important, the system is comp
 
 That is the work I do: diagnose the system, clarify ownership, improve measurement, build operating rhythm, and turn repeated work into infrastructure.
 
-## Portfolio system
+## Portfolio index
 
-| Repository | Role in the system | What it proves |
-|---|---|---|
-| [`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os) | Operating-system hub | Growth leadership structure, diagnostics, playbooks, templates, governance, and decision logic |
-| [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) | Implementation and handoff layer | Tokens, foundations, component specs, CSS variables, and AI-assisted front-end handoff |
-| [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) | Intelligence and monitoring layer | AI-assisted monitoring, signal detection, risk triage, and briefing workflows |
-| [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) | Utility and automation layer | Practical scripts and tools for marketing operations, audits, reporting, and campaign-health workflows |
-| [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) | Repeatable method layer | Playbooks for taxonomy, QA, funnel review, governance, and performance diagnostics |
-| [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | Intake and context layer | Structured collection of brand rules, voice, code references, Figma notes, assets, examples, and prompts |
+For the canonical repo-by-repo relationship map, see the [GitHub Ecosystem Map](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/ecosystem-map.md).
+
+| Repository | Short identity |
+|---|---|
+| [`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os) | Public operating system for growth leadership |
+| [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) | Local intelligence, monitoring, and briefing workflow |
+| [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) | Practical marketing operations automation scripts |
+| [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) | Repeatable marketing operations methods and validation playbooks |
+| [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | Structured brand, code, Figma, asset, and prompt intake layer |
+| [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) | Portable starter for tokens, foundations, components, and front-end handoff |
 
 ## Featured work
 
