@@ -14,6 +14,8 @@ That is the work I do: diagnose the system, clarify ownership, improve measureme
 
 For the canonical repo-by-repo relationship map, see the [GitHub Ecosystem Map](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/ecosystem-map.md).
 
+Shared terminology: [Common Language](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/common-language.md).
+
 | Repository | Short identity |
 |---|---|
 | [`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os) | Public operating system for growth leadership |
