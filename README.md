@@ -16,7 +16,7 @@ For the canonical repo-by-repo relationship map, see the [GitHub Ecosystem Map](
 
 Shared terminology: [Common Language](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/common-language.md).
 
-Usage and rights: this portfolio is public for professional review, not open-source reuse. See [Usage and Rights](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/USAGE.md).
+Usage and rights: this portfolio is public for professional review, not open-source reuse. See [Usage and Rights](USAGE.md).
 
 | Repository | Role in the system | Short identity |
 |---|---|---|
