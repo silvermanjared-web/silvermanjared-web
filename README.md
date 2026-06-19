@@ -60,6 +60,8 @@ The simplest explanation: it shows that I do not just optimize campaigns. I buil
 
 A portable design-system starter for translating brand context into tokens, foundations, component guidance, CSS variables, and AI-assisted front-end handoff.
 
+This standalone repo is the current public source of truth for the design-system starter; the older `brand-design-system/` folder embedded in this profile repo is retained only as an archived reference.
+
 This repo shows a practical tactic behind the broader Growth Architecture OS: take scattered brand, design, and front-end context and turn it into a reusable structure that humans and AI tools can apply consistently.
 
 It pairs with [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system): the context repo packages brand rules, voice, Figma metadata, asset manifests, selected code samples, prompts, and validation; the starter repo turns reviewed inputs into implementation-ready design-system structure.
