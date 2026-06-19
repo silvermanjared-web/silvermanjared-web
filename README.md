@@ -1,6 +1,6 @@
 # Jared Silverman
 
-**Growth systems, performance media, CRO, and marketing operations leadership.**
+**Performance media and growth leader who builds the operating systems underneath growth.**
 
 I stabilize and scale growth systems.
 
@@ -9,6 +9,8 @@ My work sits at the intersection of performance media, CRO, analytics, marketing
 I am most useful in environments where the work is important, the system is complex, and leadership needs clearer signal. Spend is moving. Agencies are involved. Reporting is noisy. Funnel quality is uneven. Teams are moving fast, but the operating model underneath the work needs more clarity.
 
 That is the work I do: diagnose the system, clarify ownership, improve measurement, build operating rhythm, and turn repeated work into infrastructure.
+
+This portfolio is one of those systems, and proof of how I work now. I govern AI as an operating function: one tool builds, others audit, and they check each other against standards I set. The repos are the receipt, not the claim.
 
 ## Portfolio index
 
