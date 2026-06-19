@@ -16,16 +16,20 @@ For the canonical repo-by-repo relationship map, see the [GitHub Ecosystem Map](
 
 Shared terminology: [Common Language](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/common-language.md).
 
-| Repository | Short identity |
-|---|---|
-| [`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os) | Public operating system for growth leadership |
-| [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) | Local intelligence, monitoring, and briefing workflow |
-| [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) | Practical marketing operations automation scripts |
-| [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) | Repeatable marketing operations methods and validation playbooks |
-| [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | Working brand-context bundle with demo inputs, code samples, manifests, prompts, and validation |
-| [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) | Portable starter for tokens, foundations, components, and front-end handoff |
+Usage and rights: this portfolio is public for professional review, not open-source reuse. See [Usage and Rights](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/USAGE.md).
+
+| Repository | Role in the system | Short identity |
+|---|---|---|
+| [`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os) | Operating-system hub | Growth leadership structure, diagnostic frameworks, playbooks, templates, and decision logic |
+| [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) | Intelligence and monitoring layer | AI-assisted monitoring, signal detection, risk triage, and briefing workflows |
+| [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) | Utility and automation layer | Practical scripts and tools for marketing operations, audits, reporting, and campaign-health workflows |
+| [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) | Repeatable method layer | Playbooks for taxonomy, QA, funnel review, governance, and performance diagnostics |
+| [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | Intake and context layer | Working context bundle with structured JSON, demo source notes, selected code samples, asset manifests, Figma metadata, prompts, example output, and validation |
+| [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) | Implementation and handoff layer | Tokens, foundations, component specs, CSS variables, and AI-assisted front-end handoff |
 
 ## Featured work
+
+The index above shows the full public system. Featured work highlights the two anchor artifacts: the operating-system hub and the design-system implementation layer.
 
 ### Growth Architecture OS
 
