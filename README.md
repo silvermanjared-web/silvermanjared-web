@@ -2,8 +2,6 @@
 
 **Performance media and growth leader who builds the operating systems underneath growth.**
 
-I stabilize and scale growth systems.
-
 My work sits at the intersection of performance media, CRO, analytics, marketing operations, agency governance, executive decision support, and AI-enabled workflows. The throughline is simple: make growth easier to see, easier to manage, and easier to improve.
 
 I am most useful in environments where the work is important, the system is complex, and leadership needs clearer signal. Spend is moving. Agencies are involved. Reporting is noisy. Funnel quality is uneven. Teams are moving fast, but the operating model underneath the work needs more clarity.
