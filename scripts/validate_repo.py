@@ -53,6 +53,8 @@ def main() -> int:
             normalized = rel.replace("\\", "/")
             if not (
                 normalized.startswith("design-tokens/")
+                or "/design-tokens/" in normalized
+                or normalized.startswith("brand-design-system/design-tokens/")
                 or normalized.startswith("design-system/")
                 or normalized.startswith("examples/example-token")
                 or "token-output" in normalized
