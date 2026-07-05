@@ -8,7 +8,7 @@ I am most useful in environments where the work is important, the system is comp
 
 That is the work I do: diagnose the system, clarify ownership, improve measurement, build operating rhythm, and turn repeated work into infrastructure.
 
-This portfolio is one of those systems, and proof of how I work now. I govern AI as an operating function: one tool builds, others audit, and they check each other against standards I set. The repos are the receipt, not the claim.
+This portfolio is one of those systems: structured repos, public-safe examples, validation where it matters, and connected documentation that lets reviewers inspect the work rather than rely on the claim.
 
 ## Portfolio index
 
