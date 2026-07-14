@@ -8,6 +8,8 @@
 .env.keys
 *.pem
 *.key
+*.p12
+*.pfx
 client_secret*.json
 credentials*.json
 token*.json
@@ -21,6 +23,9 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+*.sqlite
+*.db
+*.hxd
 
 # OS/editor noise
 .DS_Store
