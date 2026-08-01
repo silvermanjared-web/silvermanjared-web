@@ -42,6 +42,8 @@ For role-specific routes through the portfolio, use the [Evaluator Paths](https:
 
 Canonical relationship map: [GitHub Ecosystem Map](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/ecosystem-map.md).
 
+The release gate matters because an interconnected portfolio needs a defined publication boundary as well as shared methods. It makes the move from private operating context to public evidence reviewable without implying that every repository is generated from a private source.
+
 ## Operating point of view
 
 - Spend is capital allocation, not just campaign management.
