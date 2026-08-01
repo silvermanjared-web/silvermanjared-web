@@ -24,6 +24,7 @@ Claims and boundaries are documented in the [`growth-architecture-os` proof bank
 | Can he show proven outcomes? | [Education Performance Media Rebuild](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/education-performance-media-rebuild.md) | Directional cost-per-enrollment, approved-application efficiency, and portfolio pacing improvements |
 | Can he establish an operating rhythm? | [First 90 Days](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/03-playbooks/first-90-days.md) | Diagnosis, stabilization, ownership, and decision cadence |
 | Is the AI work governed or just experimental? | [AI Operating Model](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/04-ai-systems/ai-operating-model.md) | Source awareness, human review, bounded automation, and reusable workflows |
+| Can he safely publish patterns from private systems? | [Private-to-Public Release Gate](https://github.com/silvermanjared-web/private-to-public-release-gate) | Privacy scanning, explicit exclusions, allowlisted overlays, and Git-aware drift enforcement |
 
 For role-specific routes through the portfolio, use the [Evaluator Paths](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/evaluator-paths.md).
 
@@ -37,6 +38,7 @@ For role-specific routes through the portfolio, use the [Evaluator Paths](https:
 | [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) | The method layer: repeatable governance, taxonomy, funnel QA, and performance diagnostics |
 | [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | The context layer: structured inputs, provenance, asset manifests, prompts, and validation |
 | [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) | The implementation layer: tokens, foundations, component guidance, CSS variables, and AI-assisted handoff |
+| [`private-to-public-release-gate`](https://github.com/silvermanjared-web/private-to-public-release-gate) | The publication-governance layer: privacy-gated generation, allowlisted distribution overlays, and Git-aware drift detection for public derivatives of private systems |
 
 Canonical relationship map: [GitHub Ecosystem Map](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/ecosystem-map.md).
 
