@@ -1,90 +1,54 @@
 # Jared Silverman
 
-**Performance media and growth leader who builds the operating systems underneath growth.**
+**Growth systems and performance media leader who builds the operating layer underneath growth.**
 
-My work sits at the intersection of performance media, CRO, analytics, marketing operations, agency governance, executive decision support, and AI-enabled workflows. The throughline is simple: make growth easier to see, easier to manage, and easier to improve.
+I connect media investment, CRO, analytics, marketing operations, agency governance, and AI-assisted workflows so leaders can see what is happening, decide what to do, and hold the system accountable.
 
-I am most useful in environments where the work is important, the system is complex, and leadership needs clearer signal. Spend is moving. Agencies are involved. Reporting is noisy. Funnel quality is uneven. Teams are moving fast, but the operating model underneath the work needs more clarity.
+## The 30-second read
 
-That is the work I do: diagnose the system, clarify ownership, improve measurement, build operating rhythm, and turn repeated work into infrastructure.
+- Directed **$100M+ global media programs** for Google, Alphabet, Samsung, and SAP.
+- Led performance media and CRO work across a **180+ institution education portfolio**.
+- A public-safe acquisition case study documents **approximately 500% growth in approved applications** after a rebuild. That is an application-stage result, not a claim of revenue or profit causality.
 
-This portfolio is one of those systems: structured repos, public-safe examples, validation where it matters, and connected documentation that lets reviewers inspect the work rather than rely on the claim.
+The point is not that I can optimize campaigns. The point is that I can build the standards, operating rhythm, measurement, and decision structure around complex growth work.
 
-## Portfolio index
+Claims and boundaries are documented in the [`growth-architecture-os` proof bank](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/00-positioning/proof-points.md).
 
-For the canonical repo-by-repo relationship map, see the [GitHub Ecosystem Map](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/ecosystem-map.md).
+## Inspect the work
 
-Shared terminology: [Common Language](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/common-language.md).
-
-Usage and rights: this portfolio is public for professional review, not open-source reuse. See [Usage and Rights](USAGE.md).
-
-| Repository | Role in the system | Short identity |
+| Evaluation question | Start here | What it shows |
 |---|---|---|
-| [`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os) | Operating-system hub | Growth leadership structure, diagnostic frameworks, playbooks, templates, and decision logic |
-| [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) | Intelligence and monitoring layer | AI-assisted monitoring, signal detection, risk triage, and briefing workflows |
-| [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) | Utility and automation layer | Practical scripts and tools for marketing operations, audits, reporting, and campaign-health workflows |
-| [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) | Repeatable method layer | Playbooks for taxonomy, QA, funnel review, governance, and performance diagnostics |
-| [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | Intake and context layer | Working context bundle with structured JSON, demo source notes, selected code samples, asset manifests, Figma metadata, prompts, example output, and validation |
-| [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) | Implementation and handoff layer | Tokens, foundations, component specs, CSS variables, and AI-assisted front-end handoff |
+| Can he lead a complex growth system? | [Performance Media Operating Model](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/02-growth-architecture/performance-media-operating-model.md) | Investment logic, channel roles, measurement, agency governance, and executive cadence |
+| Can he connect marketing metrics to business economics? | [Media Metrics to Financial Outcomes](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/06-reference/media-metrics-to-financial-outcomes.md) | CAC, LTV, payback, incrementality, and explicit limits on causal claims |
+| Is there concrete outcome evidence? | [WEX App Growth Rebuild](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/wex-app-growth-rebuild.md) | A bounded case study with source-backed metrics and no invented downstream impact |
+| Can he establish an operating rhythm? | [First 90 Days](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/03-playbooks/first-90-days.md) | Diagnosis, stabilization, ownership, and decision cadence |
+| Is the AI work governed or just experimental? | [AI Operating Model](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/04-ai-systems/ai-operating-model.md) | Source awareness, human review, bounded automation, and reusable workflows |
 
-## Featured work
+For role-specific routes through the portfolio, use the [Evaluator Paths](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/evaluator-paths.md).
 
-The index above shows the full public system. Featured work highlights the two anchor artifacts: the operating-system hub and the design-system implementation layer.
+## How the system fits together
 
-### Growth Architecture OS
+| Repository | Role |
+|---|---|
+| [`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os) | The operating-system hub: leadership models, diagnostics, case studies, playbooks, templates, and decision logic |
+| [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) | The intelligence layer: source-aware monitoring, signal detection, risk triage, and briefing workflows |
+| [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) | The utility layer: practical scripts for audits, reporting, campaign health, and recurring operations |
+| [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) | The method layer: repeatable governance, taxonomy, funnel QA, and performance diagnostics |
+| [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | The context layer: structured inputs, provenance, asset manifests, prompts, and validation |
+| [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) | The implementation layer: tokens, foundations, component guidance, CSS variables, and AI-assisted handoff |
 
-[`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os)
+Canonical relationship map: [GitHub Ecosystem Map](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/ecosystem-map.md).
 
-A public operating system for how I think about growth leadership.
+## Operating point of view
 
-This is not a normal portfolio. It is a structured view of how I walk into a messy growth environment, figure out what is broken, create order, and help the business make better decisions.
+- Spend is capital allocation, not just campaign management.
+- Efficient spend without incrementality is not growth.
+- Reporting should end in a decision, an owner, or a clearly named information gap.
+- Governance should improve performance, not add ceremony.
+- AI should support source-aware judgment and repeatable work, with humans accountable for the result.
 
-Longer thesis: [Why I Run Growth Like a Platform Team](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/why-i-run-growth-like-a-platform-team.md)
+## Review standard
 
-It includes:
+This portfolio is built for inspection. Public claims stay within the source evidence; case studies separate observed outcomes from inferred business impact; and the repositories use validation and governance controls where those controls materially improve trust.
 
-- First-90-days operating model
-- Public-safe case studies
-- Performance media and CRO playbooks
-- Agency governance frameworks
-- Executive reporting templates
-- Data dictionaries and taxonomy standards
-- AI-enabled marketing operations workflows
-- Governance and claim-discipline standards
-
-The simplest explanation: it shows that I do not just optimize campaigns. I build the operating infrastructure that makes growth easier to manage and scale.
-
-### Brand Design System Starter
-
-[`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter)
-
-A portable design-system starter for translating brand context into tokens, foundations, component guidance, CSS variables, and AI-assisted front-end handoff.
-
-This standalone repo is the current public source of truth for the design-system starter; the older `brand-design-system/` folder embedded in this profile repo is retained only as an archived reference.
-
-This repo shows a practical tactic behind the broader Growth Architecture OS: take scattered brand, design, and front-end context and turn it into a reusable structure that humans and AI tools can apply consistently.
-
-It pairs with [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system): the context repo packages brand rules, voice, Figma metadata, asset manifests, selected code samples, prompts, and validation; the starter repo turns reviewed inputs into implementation-ready design-system structure.
-
-## What I build
-
-- **Growth operating systems** — the standards, cadence, QA, and decision logic behind scalable demand
-- **Performance media infrastructure** — investment strategy, channel roles, pacing, partner management, and full-funnel accountability
-- **CRO and funnel systems** — roadmap structure, test logic, conversion diagnosis, and enrollment or revenue-path clarity
-- **Marketing operations workflows** — taxonomy, reporting, data validation, monitoring, and repeatable execution systems
-- **AI-enabled operating tools** — source-aware workflows for briefs, readouts, diagnostics, QA, and executive communication
-- **Brand and design-system handoff layers** — structured context, tokens, components, and AI-ready front-end guidance for consistent execution
-
-## How I work
-
-- **Diagnostic first** — understand the system before prescribing solutions
-- **Systems over heroics** — build structure that does not depend on one person holding everything together
-- **Signal over noise** — separate what is happening from what merely looks urgent
-- **Governance that improves performance** — clarify ownership, standards, and decision rights without adding bureaucracy
-- **Decision-ready communication** — turn reporting into tradeoffs, risks, and recommended action
-
-## Current focus
-
-I am building practical systems for growth leadership: performance media operating models, CRO roadmaps, AI-enabled marketing operations, executive decision support, brand/design-system handoff, and reusable frameworks for scaling complex marketing environments.
-
-The goal is simple: make growth systems more visible, more governable, and more repeatable.
+Usage and rights: this portfolio is public for professional review, not open-source reuse. See [USAGE.md](USAGE.md).
