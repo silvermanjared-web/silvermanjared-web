@@ -44,8 +44,30 @@ def main() -> int:
     failures: list[str] = []
     tracked = tracked_files()
 
-    if not (ROOT / "README.md").exists():
+    readme_path = ROOT / "README.md"
+    if not readme_path.exists():
         failures.append("Missing README.md")
+    else:
+        readme = readme_path.read_text(errors="ignore")
+        required_readme_markers = [
+            "Growth systems leader with deep performance-media operating expertise",
+            "$15M+ in media",
+            "180+ institution",
+            "Semantically Governed Claims",
+            "00-positioning/claims",
+            "Multi-Brand Education Growth System",
+            "~17% to ~28% lead-to-enrollment",
+        ]
+        for marker in required_readme_markers:
+            if marker not in readme:
+                failures.append(f"README missing August positioning marker: {marker}")
+        stale_readme_markers = [
+            "Growth systems and performance media leader",
+            "Led performance media and CRO work across a **180+ institution education portfolio**",
+        ]
+        for marker in stale_readme_markers:
+            if marker in readme:
+                failures.append(f"README contains stale positioning marker: {marker}")
 
     for rel in tracked:
         base = Path(rel).name
