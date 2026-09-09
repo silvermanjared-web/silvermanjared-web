@@ -60,7 +60,7 @@ def main() -> int:
         ]
         for marker in required_readme_markers:
             if marker not in readme:
-                failures.append(f"README missing August positioning marker: {marker}")
+                failures.append(f"README missing required positioning marker: {marker}")
         stale_readme_markers = [
             "Growth systems and performance media leader",
             "Led performance media and CRO work across a **180+ institution education portfolio**",
