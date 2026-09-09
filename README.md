@@ -4,12 +4,12 @@
 
 I stabilize and scale growth systems. Across 15+ years, I have led media investment, CRO, measurement, agency governance, marketing operations, AI-enabled workflows, and executive decision support across PE-backed, enterprise, and global environments.
 
-My current work connects **$15M+ in media**, CRO, measurement, agency governance, and investment decisions across a **180+ institution** education portfolio. Earlier work includes **$100M+ global programs**, **30+ person teams**, and measurable performance rebuilds across financial services, advocacy, education, technology, retail, healthcare, and B2B environments.
+My most recent enterprise work connected **$15M+ in media**, CRO, measurement, agency governance, and investment decisions across a **180+ institution** education portfolio. Earlier work includes **$100M+ global programs**, **30+ person teams**, and measurable performance rebuilds across financial services, advocacy, education, technology, retail, healthcare, and B2B environments.
 
 ## The 30-second read
 
 - I build the operating layer underneath growth: allocation logic, CRO systems, measurement discipline, QA, agency accountability, and decision cadence.
-- Current bounded evidence includes a multi-brand education growth system with **$15M+ media scope**, **180+ institutions**, **$500K reallocation**, **150+ landing pages**, **60+ campaigns**, and an observed **~17% to ~28% lead-to-enrollment movement** with explicit causal boundaries.
+- Recent bounded evidence includes a multi-brand education growth system with **$15M+ media scope**, **180+ institutions**, **$500K reallocation**, **150+ landing pages**, **60+ campaigns**, and an observed **~17% to ~28% lead-to-enrollment movement** with explicit causal boundaries.
 - Historical proof includes **~500% growth in WEX approved applications**, **86% YoY growth in Stand Together web-qualified engagements**, and **$100M+ global programs** with **30+ person teams**.
 
 The point is not that I can optimize campaigns. The point is that I can design the system through which investment, conversion, measurement, execution, and accountability work together.
@@ -20,7 +20,7 @@ Claims and boundaries are governed in the [`growth-architecture-os` claim system
 
 | Evaluation question | Start here | What it shows |
 |---|---|---|
-| Can he lead a complex growth system at current enterprise scale? | [Multi-Brand Education Growth System](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/pansophic-growth-system.md) | Current growth-system scope, allocation, CRO, measurement, agency governance, and causal discipline |
+| Can he lead a complex growth system at enterprise scale? | [Multi-Brand Education Growth System](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/pansophic-growth-system.md) | Recent enterprise growth-system scope, allocation, CRO, measurement, agency governance, and causal discipline |
 | Are the claims themselves governed? | [Semantically Governed Claims](https://github.com/silvermanjared-web/growth-architecture-os/tree/main/00-positioning/claims) | Claim authority, SG0-SG3 semantic routing, causal controls, and public-safety boundaries |
 | Can he connect marketing metrics to business economics without overstating causality? | [Media Metrics to Financial Outcomes](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/06-reference/media-metrics-to-financial-outcomes.md) | CAC, LTV, payback, incrementality, and explicit limits on causal claims |
 | Can he show acquisition-rebuild proof? | [WEX App Growth Rebuild](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/wex-app-growth-rebuild.md) | Approved applications grew approximately 500% after the rebuild; application-stage only |
