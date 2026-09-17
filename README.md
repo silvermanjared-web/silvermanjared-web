@@ -1,62 +1,51 @@
 # Jared Silverman
 
-**Growth systems leader with deep performance-media operating expertise.**
+**Growth systems leader who turns complex acquisition environments into scalable operating systems.**
 
-I stabilize and scale growth systems. Across 15+ years, I have led media investment, CRO, measurement, agency governance, marketing operations, AI-enabled workflows, and executive decision support across PE-backed, enterprise, and global environments.
+I lead growth where media investment, conversion, measurement, agencies, technology, and executive decisions all have to work as one system. Across 15+ years, I have built and led performance organizations spanning PE-backed, enterprise, global, and high-growth environments.
 
-My most recent enterprise work connected **$15M+ in media**, CRO, measurement, agency governance, and investment decisions across a **180+ institution** education portfolio. Earlier work includes **$100M+ global programs**, **30+ person teams**, and measurable performance rebuilds across financial services, advocacy, education, technology, retail, healthcare, and B2B environments.
+My most recent enterprise work connected **$15M+ in media across 180+ institutions** with CRO, measurement, agency governance, and investment decisions. Earlier work includes **$100M+ global programs**, **30+ person teams**, an acquisition rebuild that drove **~500% growth in approved applications**, and a measurement transformation that produced **86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x**.
 
 ## The 30-second read
 
-- I build the operating layer underneath growth: allocation logic, CRO systems, measurement discipline, QA, agency accountability, and decision cadence.
-- Recent bounded evidence includes a multi-brand education growth system with **$15M+ media scope**, **180+ institutions**, **$500K reallocation**, **150+ landing pages**, **60+ campaigns**, and an observed **~17% to ~28% lead-to-enrollment movement** with explicit causal boundaries.
-- Historical proof includes **~500% growth in WEX approved applications**, **86% YoY growth in Stand Together web-qualified engagements**, and **$100M+ global programs** with **30+ person teams**.
+- **Enterprise growth leadership:** $15M+ recent media scope across 180+ institutions, spanning investment strategy, performance media, CRO, measurement, partners, and executive decision support.
+- **Transformation:** I step into fragmented growth environments, identify where performance is leaking, and build the operating model required to scale with more control.
+- **Capital allocation:** I treat spend as investment, using downstream business signals to decide where capital should move, where it should be protected, and where activity should stop.
+- **Operating leadership:** I build standards, decision rights, QA, reporting, agency accountability, and cadence so performance does not depend on individual heroics.
+- **AI-enabled execution:** I use AI to make monitoring, synthesis, QA, context management, and recurring operating work faster and more consistent while keeping human judgment accountable.
 
-The point is not that I can optimize campaigns. The point is that I can design the system through which investment, conversion, measurement, execution, and accountability work together.
+**The throughline:** I do more than optimize campaigns. I design the system through which investment, conversion, measurement, execution, and accountability produce growth.
 
-Claims and boundaries are governed in the [`growth-architecture-os` claim system](https://github.com/silvermanjared-web/growth-architecture-os/tree/main/00-positioning/claims) and summarized in the [`proof-points` entry point](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/00-positioning/proof-points.md).
+## Selected proof
 
-## Inspect the work
-
-| Evaluation question | Start here | What it shows |
+| Leadership question | Evidence | What it demonstrates |
 |---|---|---|
-| Can he lead a complex growth system at enterprise scale? | [Multi-Brand Education Growth System](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/pansophic-growth-system.md) | Recent enterprise growth-system scope, allocation, CRO, measurement, agency governance, and causal discipline |
-| Are the claims themselves governed? | [Semantically Governed Claims](https://github.com/silvermanjared-web/growth-architecture-os/tree/main/00-positioning/claims) | Claim authority, SG0-SG3 semantic routing, causal controls, and public-safety boundaries |
-| Can he connect marketing metrics to business economics without overstating causality? | [Media Metrics to Financial Outcomes](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/06-reference/media-metrics-to-financial-outcomes.md) | CAC, LTV, payback, incrementality, and explicit limits on causal claims |
-| Can he show acquisition-rebuild proof? | [WEX App Growth Rebuild](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/wex-app-growth-rebuild.md) | Approved applications grew approximately 500% after the rebuild; application-stage only |
-| Can he show operating-performance proof? | [FFIA Measurement Model](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/stand-together-ffia-measurement.md) | 86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x; engagement-stage only |
-| Can he establish an operating rhythm? | [First 90 Days](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/03-playbooks/first-90-days.md) | Diagnosis, stabilization, ownership, and decision cadence |
-| Is the AI work governed or just experimental? | [AI Operating Model](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/04-ai-systems/ai-operating-model.md) | Source awareness, human review, bounded automation, and reusable workflows |
-| Can he safely publish patterns from private systems? | [Private-to-Public Release Gate](https://github.com/silvermanjared-web/private-to-public-release-gate) | Privacy scanning, explicit exclusions, allowlisted overlays, and Git-aware drift enforcement |
+| Can he run a complex growth system at enterprise scale? | [Multi-Brand Education Growth System](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/pansophic-growth-system.md) | $15M+ media scope, 180+ institutions, capital allocation, CRO, measurement, agency governance, and executive operating cadence |
+| Can he rebuild acquisition performance? | [WEX App Growth Rebuild](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/wex-app-growth-rebuild.md) | ~500% growth in approved applications after a phased acquisition rebuild |
+| Can he improve measurement and operating performance? | [FFIA Measurement Model](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/stand-together-ffia-measurement.md) | 86% YoY growth in web-qualified engagements and 3x benchmark outperformance |
+| Can he translate marketing performance into investment judgment? | [Media Metrics to Financial Outcomes](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/06-reference/media-metrics-to-financial-outcomes.md) | CAC, LTV, payback, incrementality, capital allocation, and decision logic |
+| Can he establish an operating rhythm quickly? | [First 90 Days](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/03-playbooks/first-90-days.md) | Diagnosis, stabilization, ownership, prioritization, and decision cadence |
+| Is the AI work operational rather than experimental? | [AI Operating Model](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/04-ai-systems/ai-operating-model.md) | Source-aware workflows, human review, reusable automation, and operating leverage |
 
-For role-specific routes through the portfolio, use the [Evaluator Paths](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/evaluator-paths.md).
+## Growth Architecture OS
 
-## How the system fits together
+[`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os) is the center of my public portfolio. It shows how I diagnose growth systems, make investment decisions, structure teams and agencies, connect performance to business economics, and turn operating knowledge into repeatable infrastructure.
 
-| Repository | Role |
-|---|---|
-| [`growth-architecture-os`](https://github.com/silvermanjared-web/growth-architecture-os) | The operating-system hub: leadership models, diagnostics, governed claims, case studies, playbooks, templates, and decision logic |
-| [`marketing-intelligence-agent`](https://github.com/silvermanjared-web/marketing-intelligence-agent) | The intelligence layer: source-aware monitoring, signal detection, risk triage, and briefing workflows |
-| [`marketing-ops-toolkit`](https://github.com/silvermanjared-web/marketing-ops-toolkit) | The utility layer: practical scripts for audits, reporting, campaign health, and recurring operations |
-| [`marketing-ops-playbooks`](https://github.com/silvermanjared-web/marketing-ops-playbooks) | The method layer: repeatable governance, taxonomy, funnel QA, and performance diagnostics |
-| [`brand-context-system`](https://github.com/silvermanjared-web/brand-context-system) | The context layer: structured inputs, provenance, asset manifests, prompts, and validation |
-| [`brand-design-system-starter`](https://github.com/silvermanjared-web/brand-design-system-starter) | The implementation layer: tokens, foundations, component guidance, CSS variables, and AI-assisted handoff |
-| [`private-to-public-release-gate`](https://github.com/silvermanjared-web/private-to-public-release-gate) | The publication-governance layer: privacy-gated generation, allowlisted distribution overlays, and Git-aware drift detection for public derivatives of private systems |
-
-Canonical relationship map: [GitHub Ecosystem Map](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/ecosystem-map.md).
-
-The release gate matters because an interconnected portfolio needs a defined publication boundary as well as shared methods. It makes the move from private operating context to public evidence reviewable without implying that every repository is generated from a private source.
+Supporting repositories extend that model into intelligence, automation, playbooks, context systems, design infrastructure, and publication governance.
 
 ## Operating point of view
 
-- Spend is capital allocation, not just campaign management.
+- Spend is capital allocation, not campaign management.
 - Growth improves when investment, conversion, measurement, execution, and accountability operate as one system.
 - Reporting should end in a decision, an owner, or a clearly named information gap.
-- Governance should improve performance, not add ceremony.
-- AI should support source-aware judgment and repeatable work, with humans accountable for the result.
+- Governance should increase operating leverage, not add ceremony.
+- Agencies should be managed against business outcomes, explicit standards, and clear decision rights.
+- AI is most valuable when it compounds judgment and repeatability rather than adding novelty.
 
-## Review standard
+## Why this portfolio exists
 
-This portfolio is built for inspection. Public claims stay within the source evidence; case studies separate observed outcomes from inferred business impact; and the repositories use validation and governance controls where those controls materially improve trust.
+A résumé can summarize scope and outcomes. This portfolio shows the operating thinking behind them: how I diagnose, prioritize, allocate, govern, communicate, and build systems other people can run.
+
+The underlying evidence is governed through the [Growth Architecture OS claim system](https://github.com/silvermanjared-web/growth-architecture-os/tree/main/00-positioning/claims), so the public positioning stays grounded while the front-door narrative stays focused on leadership value.
 
 Usage and rights: this portfolio is public for professional review, not open-source reuse. See [USAGE.md](USAGE.md).
