@@ -4,7 +4,7 @@
 
 I lead growth where media investment, conversion, measurement, agencies, technology, and executive decisions all have to work as one system. Across 15+ years, I have built and led performance organizations spanning PE-backed, enterprise, global, and high-growth environments.
 
-My most recent enterprise work connected **$15M+ in media across 180+ institutions** with CRO, measurement, agency governance, and investment decisions. Earlier work includes **$100M+ global programs**, **30+ person teams**, an acquisition rebuild that drove **~500% growth in approved applications**, and a measurement transformation that produced **86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x**.
+My most recent enterprise work connected **$15M+ in media across 180+ institutions** with CRO, measurement architecture, agency governance, and investment decisions. That work included a **$500K cross-market reallocation**, a separate **nine-school Meta-versus-paid-search allocation test**, and deeper platform-to-Salesforce signals used to optimize closer to applications and enrollments. Earlier work includes **$100M+ global programs**, **30+ person teams**, an acquisition rebuild that drove **~500% growth in approved applications**, and a measurement transformation that produced **86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x**.
 
 ## The 30-second read
 
@@ -20,7 +20,7 @@ My most recent enterprise work connected **$15M+ in media across 180+ institutio
 
 | Leadership question | Evidence | What it demonstrates |
 |---|---|---|
-| Can he run a complex growth system at enterprise scale? | [Multi-Brand Education Growth System](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/pansophic-growth-system.md) | $15M+ media scope, 180+ institutions, capital allocation, CRO, measurement, agency governance, and executive operating cadence |
+| Can he run a complex growth system at enterprise scale? | [Multi-Brand Education Growth System](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/pansophic-growth-system.md) | $15M+ media scope, 180+ institutions, $500K reallocation, separate channel-allocation testing, deeper-funnel measurement architecture, CRO, agency governance, and executive operating cadence |
 | Can he rebuild acquisition performance? | [WEX App Growth Rebuild](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/wex-app-growth-rebuild.md) | ~500% growth in approved applications after a phased acquisition rebuild |
 | Can he improve measurement and operating performance? | [FFIA Measurement Model](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/01-case-studies/stand-together-ffia-measurement.md) | 86% YoY growth in web-qualified engagements and 3x benchmark outperformance |
 | Can he translate marketing performance into investment judgment? | [Media Metrics to Financial Outcomes](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/06-reference/media-metrics-to-financial-outcomes.md) | CAC, LTV, payback, incrementality, capital allocation, and decision logic |
