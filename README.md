@@ -18,6 +18,18 @@ Over the last year, that operating work has expanded further into AI systems: ca
 
 **The throughline:** I do more than optimize campaigns. I design the system through which investment, conversion, measurement, execution, and accountability produce growth.
 
+## Explore the operating system
+
+![Jared Growth Systems Architecture](https://raw.githubusercontent.com/silvermanjared-web/growth-architecture-os/main/assets/jared-growth-systems-architecture.svg)
+
+Choose the shortest useful path:
+
+- **5 minutes:** [Executive Portfolio Index](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/executive-portfolio-index.md)
+- **Evidence:** [Proof Ledger](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/proof-ledger.md)
+- **What the system can do:** [Capability Catalog](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/capability-catalog.md)
+- **See it reason:** [Try the System](https://github.com/silvermanjared-web/growth-architecture-os/tree/main/scenarios)
+- **Architecture judgment:** [Decision Records](https://github.com/silvermanjared-web/growth-architecture-os/tree/main/architecture-decisions)
+
 ## Selected proof
 
 | Leadership question | Evidence | What it demonstrates |
