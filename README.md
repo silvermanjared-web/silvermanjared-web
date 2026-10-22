@@ -1,8 +1,10 @@
 # Jared Silverman
 
-**Growth systems leader who turns complex acquisition environments into scalable operating systems.**
+**Growth and marketing transformation leader. I make good growth decisions easier for teams to repeat.**
 
-I lead growth where media investment, conversion, measurement, agencies, technology, and executive decisions all have to work as one system. Across 15+ years, I have built and led performance organizations spanning PE-backed, enterprise, global, and high-growth environments.
+I start with the business objective and what the existing team already does well. I use the evidence to find the constraint, work with its owners on the smallest defensible improvement, and look for an early measurable signal before scaling. The result should be stronger individual judgment and a more capable organization, not a rigid playbook or a system that depends on me.
+
+Across 15+ years, I've connected media investment, conversion, measurement, agencies, technology, and executive decisions in PE-backed, enterprise, and global environments. Performance marketing is the foundation; practical, collaborative growth transformation is the work.
 
 My most recent enterprise work connected **$15M+ in media across 180+ institutions** with CRO, measurement architecture, agency governance, forecasting, internal capability building, and investment decisions. That work included a **$500K cross-market reallocation**, a separate **nine-school Meta-versus-paid-search allocation test**, agency RFP and partner-selection leadership, an in-house media capability built across three business units, and deeper platform-to-Salesforce signals used to optimize closer to applications and enrollments. Earlier work includes **$100M+ global programs**, **30+ person teams**, an acquisition rebuild that drove **~500% growth in approved applications**, and a measurement transformation that produced **86% YoY growth in web-qualified engagements while outperforming benchmarks by 3x**.
 
@@ -10,13 +12,13 @@ Over the last year, that operating work has expanded further into AI systems: ca
 
 ## The 30-second read
 
-- **Enterprise growth leadership:** $15M+ recent media scope across 180+ institutions, spanning investment strategy, performance media, CRO, measurement, partners, and executive decision support.
-- **Transformation:** I step into fragmented growth environments, identify where performance is leaking, and build the operating model required to scale with more control.
-- **Capital allocation:** I treat spend as investment, using downstream business signals to decide where capital should move, where it should be protected, and where activity should stop.
-- **Operating leadership:** I build standards, decision rights, QA, reporting, agency accountability, and cadence so performance does not depend on individual heroics.
-- **AI systems:** I build context-aware, capability-driven operating layers that make monitoring, synthesis, QA, execution, and recurring work more reliable without removing human authority.
+- **The method:** Clarify the outcome, understand existing owners, test the smallest evidence-backed change, and scale only what holds up.
+- **The people:** Preserve useful practices and individual ownership; create concise decision guides that enable teams instead of making them dependent on a central expert.
+- **The scope:** $15M+ recent media across 180+ institutions, $100M+ historical global programs, multidisciplinary teams, CRO, measurement and investment decisions.
+- **The results:** A separate $500K reallocation, a nine-school allocation test, approximately 500% growth in WEX approved applications, and 86% YoY web-qualified engagement growth at Stand Together, with claim boundaries preserved.
+- **The tools:** AI, analytics and operating architecture support better judgment, timely feedback and repeatable execution. They are not the goal.
 
-**The throughline:** I do more than optimize campaigns. I design the system through which investment, conversion, measurement, execution, and accountability produce growth.
+**The throughline:** Make the organization stronger at making decisions. Deliver early evidence of progress, preserve what works, and leave teams able to sustain the improvement.
 
 ## Explore the operating system
 
@@ -24,6 +26,7 @@ Over the last year, that operating work has expanded further into AI systems: ca
 
 Choose the shortest useful path:
 
+- **How I work:** [The lightweight growth method](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/how-i-build-durable-growth.md)
 - **5 minutes:** [Executive Portfolio Index](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/executive-portfolio-index.md)
 - **Evidence:** [Proof Ledger](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/proof-ledger.md)
 - **What the system can do:** [Capability Catalog](https://github.com/silvermanjared-web/growth-architecture-os/blob/main/docs/capability-catalog.md)
