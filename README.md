@@ -1,8 +1,8 @@
 # Jared Silverman
 
-**Growth and marketing transformation leader. I make good growth decisions easier for teams to repeat.**
+**Growth transformation leader turning fast, evidence-led judgment into measurable business improvement and stronger teams.**
 
-I start with the business objective and what the existing team already does well. I use the evidence to find the constraint, work with its owners on the smallest defensible improvement, and look for an early measurable signal before scaling. The result should be stronger individual judgment and a more capable organization, not a rigid playbook or a system that depends on me.
+I draw on cross-functional experience to rapidly identify which change offers the greatest defensible business improvement relative to its cost, risk, and disruption. With existing owners, I pursue the least intervention necessary for that result, validate early signals against downstream quality, and turn useful learning into lightweight decision guidance. The objective is more capable teams and less overhead, not identical ways of working or a system that depends on me.
 
 Across 15+ years, I've connected media investment, conversion, measurement, agencies, technology, and executive decisions in PE-backed, enterprise, and global environments. Performance marketing is the foundation; practical, collaborative growth transformation is the work.
 
@@ -12,13 +12,13 @@ Over the last year, that operating work has expanded further into AI systems: ca
 
 ## The 30-second read
 
-- **The method:** Clarify the outcome, understand existing owners, test the smallest evidence-backed change, and scale only what holds up.
+- **The method:** Compare possible interventions by expected value, confidence, cost and disruption; act on the highest-leverage defensible option with existing owners, and scale only what holds up.
 - **The people:** Preserve useful practices and individual ownership; create concise decision guides that enable teams instead of making them dependent on a central expert.
 - **The scope:** $15M+ recent media across 180+ institutions, $100M+ historical global programs, multidisciplinary teams, CRO, measurement and investment decisions.
 - **The results:** A separate $500K reallocation, a nine-school allocation test, approximately 500% growth in WEX approved applications, and 86% YoY web-qualified engagement growth at Stand Together, with claim boundaries preserved.
 - **The tools:** AI, analytics and operating architecture support better judgment, timely feedback and repeatable execution. They are not the goal.
 
-**The throughline:** Make the organization stronger at making decisions. Deliver early evidence of progress, preserve what works, and leave teams able to sustain the improvement.
+**The throughline:** Simple method, demanding judgment. Find the highest-leverage change, prove its value, preserve what works, and leave others more capable of sustaining the improvement.
 
 ## Explore the operating system
 
